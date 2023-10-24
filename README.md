@@ -1,4 +1,5 @@
 # ArmDot-Trial-Remover
+This Is The Fixed Version Of https://github.com/Lucia361/ArmDot-Trial-Remover
 This tool removes 7-day trial period
 Works on Latest version of ArmDot
 
@@ -6,5 +7,6 @@ Usage:
 Drag and drop your assembly to ArmDotTrialRemover.exe 
 
 Discord:
-0x29A#8291
+slle
+
 
