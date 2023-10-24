@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmDotTrialRemover", "ArmDotTrialRemover.csproj", "{DF70E435-CE5B-4110-B8A6-D560B8AA3AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF70E435-CE5B-4110-B8A6-D560B8AA3AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF70E435-CE5B-4110-B8A6-D560B8AA3AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF70E435-CE5B-4110-B8A6-D560B8AA3AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF70E435-CE5B-4110-B8A6-D560B8AA3AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4523F13E-9B94-46AF-BCCD-DEBB1678C4FA}
+	EndGlobalSection
+EndGlobal
