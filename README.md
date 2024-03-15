@@ -5,5 +5,5 @@
 
 ### Usage: Drag and drop your assembly to ArmDotTrialRemover.exe 
 ----
-- Discord: slle
+- Discord: mfiw
 
