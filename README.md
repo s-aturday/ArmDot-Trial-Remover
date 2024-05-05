@@ -5,5 +5,3 @@
 
 ### Usage: Drag and drop your assembly to ArmDotTrialRemover.exe 
 ----
-- Discord: mfiw
-
